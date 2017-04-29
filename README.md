@@ -54,6 +54,11 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
 
+# Running instructions :
+* First download the files
+* Then open the index.html file in the main directory using any browser
+* Now you can browse the other pages through the first page.
+
 # list of my optimizations:
 * Adding switch to **changePizzaSizes** method and creating a variable .
 * Creating a varible in **updatePostions** called **scrollPosition**.
